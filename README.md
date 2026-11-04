@@ -1,12 +1,12 @@
 <div align="center">
 
-## Browniw
+# Browniw
 
-**Base documental de um conceito digital voltado ao segmento de alimentos.**
+<p>Site de apresentação para confeitaria.</p>
 
-![documentação](https://img.shields.io/badge/documenta%C3%A7%C3%A3o-92400E?style=flat-square&labelColor=111827) ![público](https://img.shields.io/badge/p%C3%BAblico-92400E?style=flat-square&labelColor=111827)
+<img alt="Documentação" src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-475569?style=for-the-badge&logo=markdown&logoColor=white" />
 
-<sub>ALIMENTAÇÃO · PAULO MATHEUS</sub>
+<sub>PROJETO · PAULO MATHEUS</sub>
 
 </div>
 
