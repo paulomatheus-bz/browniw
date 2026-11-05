@@ -7,3 +7,6 @@ Site de apresentação para uma confeitaria, pensado para mostrar os produtos e 
 ## Escopo
 
 A versão publicada serve como vitrine digital. O código do site ainda não foi enviado para este repositório, que por enquanto reúne a documentação do projeto. Não há linguagens detectadas pelo GitHub.
+---
+
+<p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
