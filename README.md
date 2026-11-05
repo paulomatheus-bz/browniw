@@ -16,4 +16,8 @@ A página ajuda o cliente a conhecer os produtos e conversar com a confeitaria. 
 
 O código da demonstração ainda não foi organizado neste repositório. Para uma página leve desse tipo, a implementação prevista é HTML, CSS e JavaScript. Fotos e informações devem ter autorização da confeitaria.
 
+## Continuidade do projeto
+
+Antes de divulgar mudanças, vou confirmar com a confeitaria os produtos disponíveis, os valores e as condições para encomenda. Fotos e textos precisam de autorização; pedidos e pagamentos continuam sendo combinados diretamente com a responsável.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
