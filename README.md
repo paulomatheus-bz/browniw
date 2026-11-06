@@ -7,7 +7,7 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-<p><sub>Tecnologias previstas para implementação.</sub></p>
+<p><sub>Stack planejada para esta versão.</sub></p>
 Criei uma vitrine digital para uma confeitaria, com foco em apresentar os produtos e facilitar o contato para encomendas.
 
 **Demonstração:** https://brownin-confeitaria.vercel.app
