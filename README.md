@@ -1,8 +1,6 @@
-<div align="center">
+<h1 align="left">Browniw</h1>
 
-# Browniw
-
-*Criei uma vitrine digital para uma confeitaria, com foco em apresentar os produtos e facilitar o contato para encomendas.*
+<p><em>Criei uma vitrine digital para uma confeitaria, com foco em apresentar os produtos e facilitar o contato para encomendas.</em></p>
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -11,7 +9,7 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-</div>
+
 
 <p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 **Demonstração:** https://brownin-confeitaria.vercel.app
