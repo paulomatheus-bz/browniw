@@ -1,6 +1,6 @@
 <h1 align="left">Browniw</h1>
 
-<p><em>Vitrine digital para apresentar produtos de uma confeitaria e receber contatos de encomenda.</em></p>
+<p><em>Vitrine digital para uma confeitaria.</em></p>
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -9,10 +9,10 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-**Demonstração:** https://brownin-confeitaria.vercel.app
+**Demo:** https://brownin-confeitaria.vercel.app
 
-Vitrine para apresentar produtos e facilitar o contato para encomendas. A página não tem checkout; disponibilidade, valores e pedidos são tratados diretamente com a confeitaria.
+Vitrine de produtos com contato para encomendas. Não há checkout; valores e disponibilidade são tratados com a confeitaria.
 
-O código ainda não está neste repositório. HTML, CSS e JavaScript são a stack prevista. Produtos, fotos e informações devem ser aprovados pela responsável antes de qualquer atualização.
+O código não está neste repositório. HTML, CSS e JavaScript são a stack prevista. Fotos e informações precisam de autorização da responsável.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
