@@ -15,4 +15,9 @@ Vitrine de produtos com contato para encomendas. Não há checkout; valores e di
 
 O código não está neste repositório. HTML, CSS e JavaScript são a stack prevista. Fotos e informações precisam de autorização da responsável.
 
+
+## Catálogo e encomendas
+
+Vitrine de confeitaria voltada à apresentação de produtos e ao encaminhamento de pedidos diretamente à responsável.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
